@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="700" viewBox="0 0 900 700">
+  <defs>
+    <radialGradient id="g" cx="30%" cy="20%" r="75%"><stop offset="0" stop-color="#06B6D4" stop-opacity="0.75"/><stop offset="0.45" stop-color="#111318"/><stop offset="1" stop-color="#050505"/></radialGradient>
+    <linearGradient id="line" x1="0" x2="1"><stop stop-color="#8B5CF6"/><stop offset="0.33" stop-color="#06B6D4"/><stop offset="0.66" stop-color="#2563EB"/><stop offset="1" stop-color="#EF4444"/></linearGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="24"/></filter>
+  </defs>
+  <rect width="900" height="700" fill="url(#g)"/>
+  <circle cx="715" cy="155" r="160" fill="#06B6D4" opacity="0.22" filter="url(#blur)"/>
+  <circle cx="180" cy="550" r="190" fill="#06B6D4" opacity="0.16" filter="url(#blur)"/>
+  <rect x="90" y="92" width="720" height="516" rx="52" fill="#ffffff" opacity="0.055" stroke="#ffffff" stroke-opacity="0.14"/>
+  <path d="M120 178 C250 122 352 215 450 156 C562 88 675 130 782 95" fill="none" stroke="url(#line)" stroke-width="5" opacity="0.72"/>
+  <rect x="190" y="235" width="520" height="210" rx="42" fill="#050505" opacity="0.66" stroke="#06B6D4" stroke-opacity="0.55"/>
+  <rect x="260" y="476" width="380" height="18" rx="9" fill="url(#line)" opacity="0.75"/>
+  <text x="450" y="315" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="36" font-weight="800" fill="#F8FAFC">SteelSeries</text>
+  <text x="450" y="366" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="29" font-weight="900" fill="#F8FAFC">SteelSeries Arctis Nova Pro Wireless</text>
+  <text x="450" y="410" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700" fill="#94A3B8" letter-spacing="4">Detail shot</text>
+  <text x="450" y="570" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="900" fill="#06B6D4" letter-spacing="8">NOVA GEAR</text>
+</svg>
