@@ -1,6 +1,5 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
+@config "../tailwind.config.ts";
 
 :root {
   color-scheme: dark;
@@ -26,7 +25,7 @@ button, input, select, textarea { font: inherit; }
   .container-nova { @apply mx-auto w-full max-w-7xl px-4 sm:px-6 lg:px-8; }
   .glass { @apply border border-white/10 bg-white/[0.055] backdrop-blur-xl; }
   .glass-strong { @apply border border-white/10 bg-[#111318]/80 backdrop-blur-2xl; }
-  .premium-card { @apply glass rounded-3xl shadow-card transition duration-300; }
+  .premium-card { @apply border border-white/10 bg-white/[0.055] backdrop-blur-xl rounded-3xl shadow-card transition duration-300; }
   .premium-card:hover { @apply border-white/20 shadow-glow; transform: translateY(-4px); }
   .btn-primary { @apply inline-flex items-center justify-center gap-2 rounded-full bg-gradient-to-r from-nova-violet via-nova-cyan to-nova-blue px-5 py-3 text-sm font-semibold text-white shadow-glow transition hover:scale-[1.02] active:scale-[.98]; }
   .btn-secondary { @apply inline-flex items-center justify-center gap-2 rounded-full border border-white/10 bg-white/5 px-5 py-3 text-sm font-semibold text-white transition hover:border-nova-cyan/70 hover:bg-white/10; }

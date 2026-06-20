@@ -70,7 +70,7 @@ export const products: Product[] = [
       "Autonomie": "95 h",
       "Usage": "FPS compétitif"
     },
-    "short": "Souris ultra-légère pensée pour la précision compétitive.",
+    "shortDescription": "Souris ultra-légère pensée pour la précision compétitive.",
     "use": "FPS compétitif",
     "categorySlug": "souris-gaming",
     "image": "/products/logitech-g-pro-x-superlight-2.svg",
@@ -104,7 +104,7 @@ export const products: Product[] = [
       "Autonomie": "140 h",
       "Usage": "Polyvalent"
     },
-    "short": "Icône gaming revisitée avec switches hybrides et ergonomie premium.",
+    "shortDescription": "Icône gaming revisitée avec switches hybrides et ergonomie premium.",
     "use": "MMO / productivité",
     "categorySlug": "souris-gaming",
     "image": "/products/logitech-g502-x-lightspeed.svg",
@@ -139,7 +139,7 @@ export const products: Product[] = [
       "Autonomie": "70 h",
       "Usage": "FPS rapide"
     },
-    "short": "Format ambidextre rapide, nerveux et orienté esport.",
+    "shortDescription": "Format ambidextre rapide, nerveux et orienté esport.",
     "use": "FPS rapide",
     "categorySlug": "souris-gaming",
     "image": "/products/razer-viper.svg",
@@ -173,7 +173,7 @@ export const products: Product[] = [
       "Autonomie": "180 h",
       "Usage": "Setup léger RGB"
     },
-    "short": "Souris ajourée ultra-légère avec résistance aux éclaboussures.",
+    "shortDescription": "Souris ajourée ultra-légère avec résistance aux éclaboussures.",
     "use": "Setup RGB",
     "categorySlug": "souris-gaming",
     "image": "/products/steelseries-aerox.svg",
@@ -207,7 +207,7 @@ export const products: Product[] = [
       "Autonomie": "80 h",
       "Usage": "MMO / MOBA"
     },
-    "short": "Souris MMO sans-fil avec nombreux boutons programmables.",
+    "shortDescription": "Souris MMO sans-fil avec nombreux boutons programmables.",
     "use": "MMO",
     "categorySlug": "souris-gaming",
     "image": "/products/corsair-darkstar-wireless.svg",
@@ -241,7 +241,7 @@ export const products: Product[] = [
       "Autonomie": "800 h sans RGB",
       "Rétroéclairage": "LIGHTSYNC RGB"
     },
-    "short": "Clavier low-profile premium, aluminium et sans-fil ultra rapide.",
+    "shortDescription": "Clavier low-profile premium, aluminium et sans-fil ultra rapide.",
     "use": "Setup luxe",
     "categorySlug": "claviers-mecaniques",
     "image": "/products/logitech-g915-x-lightspeed.svg",
@@ -276,7 +276,7 @@ export const products: Product[] = [
       "Autonomie": "50 h RGB",
       "Rétroéclairage": "LIGHTSYNC RGB"
     },
-    "short": "Format tournoi TKL pensé pour les joueurs compétitifs.",
+    "shortDescription": "Format tournoi TKL pensé pour les joueurs compétitifs.",
     "use": "FPS compétitif",
     "categorySlug": "claviers-mecaniques",
     "image": "/products/logitech-g-pro-x-tkl-wireless.svg",
@@ -311,7 +311,7 @@ export const products: Product[] = [
       "Écran": "OLED smart display",
       "Rétroéclairage": "Prism RGB"
     },
-    "short": "Switches magnétiques réglables pour une réactivité extrême.",
+    "shortDescription": "Switches magnétiques réglables pour une réactivité extrême.",
     "use": "FPS compétitif",
     "categorySlug": "claviers-mecaniques",
     "image": "/products/steelseries-apex-pro-gen-3.svg",
@@ -345,7 +345,7 @@ export const products: Product[] = [
       "Polling": "8000 Hz selon modèle",
       "Rétroéclairage": "Chroma RGB"
     },
-    "short": "Clavier optique rapide avec signature Razer Chroma.",
+    "shortDescription": "Clavier optique rapide avec signature Razer Chroma.",
     "use": "Gaming polyvalent",
     "categorySlug": "claviers-mecaniques",
     "image": "/products/razer-huntsman.svg",
@@ -380,7 +380,7 @@ export const products: Product[] = [
       "Châssis": "Aluminium",
       "Rétroéclairage": "RGB par touche"
     },
-    "short": "Référence mécanique robuste, précise et configurable.",
+    "shortDescription": "Référence mécanique robuste, précise et configurable.",
     "use": "Setup PC",
     "categorySlug": "claviers-mecaniques",
     "image": "/products/corsair-k70.svg",
@@ -414,7 +414,7 @@ export const products: Product[] = [
       "Autonomie": "70 h",
       "Compatibilité": "PC / console"
     },
-    "short": "Casque sans-fil confortable pour jeu, stream et vocal premium.",
+    "shortDescription": "Casque sans-fil confortable pour jeu, stream et vocal premium.",
     "use": "Streaming",
     "categorySlug": "casques-audio",
     "image": "/products/logitech-g522-lightspeed.svg",
@@ -449,7 +449,7 @@ export const products: Product[] = [
       "Autonomie": "20 h",
       "Compatibilité": "PC / PlayStation"
     },
-    "short": "Son compétitif et micro avancé pour communication nette.",
+    "shortDescription": "Son compétitif et micro avancé pour communication nette.",
     "use": "FPS compétitif",
     "categorySlug": "casques-audio",
     "image": "/products/logitech-g-pro-x-wireless.svg",
@@ -483,7 +483,7 @@ export const products: Product[] = [
       "Autonomie": "Batteries échangeables",
       "Compatibilité": "PC / PS / Xbox"
     },
-    "short": "Hub audio premium pour contrôler plusieurs plateformes.",
+    "shortDescription": "Hub audio premium pour contrôler plusieurs plateformes.",
     "use": "Setup ultra premium",
     "categorySlug": "casques-audio",
     "image": "/products/steelseries-arctis-nova-pro-omni.svg",
@@ -518,7 +518,7 @@ export const products: Product[] = [
       "Autonomie": "Batteries échangeables",
       "Compatibilité": "PC / console"
     },
-    "short": "Casque haut de gamme avec ANC et double connectivité.",
+    "shortDescription": "Casque haut de gamme avec ANC et double connectivité.",
     "use": "Streaming / console",
     "categorySlug": "casques-audio",
     "image": "/products/steelseries-arctis-nova-pro-wireless.svg",
@@ -552,7 +552,7 @@ export const products: Product[] = [
       "Autonomie": "65 h",
       "Compatibilité": "PC / Mac / PS"
     },
-    "short": "Casque confortable avec spatialisation et autonomie solide.",
+    "shortDescription": "Casque confortable avec spatialisation et autonomie solide.",
     "use": "Streaming",
     "categorySlug": "casques-audio",
     "image": "/products/corsair-hs80-max-wireless.svg",
@@ -587,7 +587,7 @@ export const products: Product[] = [
       "Fréquence": "240 Hz / plus selon modèle",
       "Usage": "PC haut de gamme"
     },
-    "short": "Écran OLED premium pour immersion 4K et contraste extrême.",
+    "shortDescription": "Écran OLED premium pour immersion 4K et contraste extrême.",
     "use": "Setup ultra premium",
     "categorySlug": "ecrans-gaming",
     "image": "/products/msi-mpg-oled-322urdx36.svg",
@@ -622,7 +622,7 @@ export const products: Product[] = [
       "Fréquence": "240 Hz",
       "HDR": "True Black"
     },
-    "short": "QD-OLED 4K pour joueurs exigeants et créateurs.",
+    "shortDescription": "QD-OLED 4K pour joueurs exigeants et créateurs.",
     "use": "PC haut de gamme",
     "categorySlug": "ecrans-gaming",
     "image": "/products/msi-mpg-322ur-qd-oled.svg",
@@ -656,7 +656,7 @@ export const products: Product[] = [
       "Fréquence": "Très haute fréquence",
       "Usage": "FPS compétitif"
     },
-    "short": "Moniteur compact orienté vitesse et précision esport.",
+    "shortDescription": "Moniteur compact orienté vitesse et précision esport.",
     "use": "FPS compétitif",
     "categorySlug": "ecrans-gaming",
     "image": "/products/asus-rog-strix-xg248qsg-ace.svg",
@@ -690,7 +690,7 @@ export const products: Product[] = [
       "Fréquence": "Très haute fréquence",
       "HDR": "OLED HDR"
     },
-    "short": "OLED rapide pour compétitif premium et rendu impeccable.",
+    "shortDescription": "OLED rapide pour compétitif premium et rendu impeccable.",
     "use": "FPS compétitif",
     "categorySlug": "ecrans-gaming",
     "image": "/products/asus-rog-swift-oled-pg27aqwp-g.svg",
@@ -724,7 +724,7 @@ export const products: Product[] = [
       "Fréquence": "240 Hz",
       "Usage": "Immersion"
     },
-    "short": "Ultra-wide OLED pour setup luxe et immersion maximale.",
+    "shortDescription": "Ultra-wide OLED pour setup luxe et immersion maximale.",
     "use": "Setup luxe",
     "categorySlug": "ecrans-gaming",
     "image": "/products/asus-rog-swift-oled-pg34wcdm.svg",
@@ -758,7 +758,7 @@ export const products: Product[] = [
       "Accoudoirs": "4D magnétiques",
       "Usage": "Longues sessions"
     },
-    "short": "Chaise premium de référence pour confort et durabilité.",
+    "shortDescription": "Chaise premium de référence pour confort et durabilité.",
     "use": "Longues sessions",
     "categorySlug": "chaises-gaming",
     "image": "/products/secretlab-titan-evo.svg",
@@ -793,7 +793,7 @@ export const products: Product[] = [
       "Accoudoirs": "4D magnétiques",
       "Usage": "Setup luxe"
     },
-    "short": "Édition luxe avec finition premium et confort supérieur.",
+    "shortDescription": "Édition luxe avec finition premium et confort supérieur.",
     "use": "Setup luxe",
     "categorySlug": "chaises-gaming",
     "image": "/products/secretlab-titan-evo-nanogen-edition.svg",
@@ -828,7 +828,7 @@ export const products: Product[] = [
       "Accoudoirs": "Réglables",
       "Usage": "Setup étudiant"
     },
-    "short": "Version plus accessible conservant l’ADN Secretlab.",
+    "shortDescription": "Version plus accessible conservant l’ADN Secretlab.",
     "use": "Étudiant gamer",
     "categorySlug": "chaises-gaming",
     "image": "/products/secretlab-titan-evo-lite.svg",
@@ -863,7 +863,7 @@ export const products: Product[] = [
       "Compatibilité": "Mac / PC",
       "Usage": "Stream control"
     },
-    "short": "Contrôle instantané du stream, scènes, macros et apps.",
+    "shortDescription": "Contrôle instantané du stream, scènes, macros et apps.",
     "use": "Streaming",
     "categorySlug": "streaming-accessoires",
     "image": "/products/elgato-stream-deck.svg",
@@ -897,7 +897,7 @@ export const products: Product[] = [
       "Compatibilité": "Mac / PC",
       "Usage": "Audio / live control"
     },
-    "short": "Console de production avec molettes et surface tactile.",
+    "shortDescription": "Console de production avec molettes et surface tactile.",
     "use": "Créateur de contenu",
     "categorySlug": "streaming-accessoires",
     "image": "/products/elgato-stream-deck-plus.svg",
@@ -932,7 +932,7 @@ export const products: Product[] = [
       "Alimentation": "Phantom 48V",
       "Usage": "Micro pro"
     },
-    "short": "Interface audio XLR compacte avec mixage logiciel puissant.",
+    "shortDescription": "Interface audio XLR compacte avec mixage logiciel puissant.",
     "use": "Streaming audio",
     "categorySlug": "streaming-accessoires",
     "image": "/products/elgato-wave-xlr.svg",
@@ -966,7 +966,7 @@ export const products: Product[] = [
       "Logiciel": "Camera Hub",
       "Usage": "Webcam stream"
     },
-    "short": "Caméra de stream nette, fluide et configurable.",
+    "shortDescription": "Caméra de stream nette, fluide et configurable.",
     "use": "Streaming vidéo",
     "categorySlug": "streaming-accessoires",
     "image": "/products/elgato-facecam.svg",
@@ -1000,7 +1000,7 @@ export const products: Product[] = [
       "Montage": "Bureau",
       "Usage": "Éclairage stream"
     },
-    "short": "Éclairage studio contrôlable pour rendu vidéo professionnel.",
+    "shortDescription": "Éclairage studio contrôlable pour rendu vidéo professionnel.",
     "use": "Créateur de contenu",
     "categorySlug": "streaming-accessoires",
     "image": "/products/elgato-key-light.svg",
@@ -1034,7 +1034,7 @@ export const products: Product[] = [
       "Stockage": "2 To NVMe",
       "Usage": "4K / création"
     },
-    "short": "Tour ROG haut de gamme pour gaming 4K et création lourde.",
+    "shortDescription": "Tour ROG haut de gamme pour gaming 4K et création lourde.",
     "use": "PC haut de gamme",
     "categorySlug": "pc-setup-premium",
     "image": "/products/asus-rog-g1000.svg",
@@ -1069,7 +1069,7 @@ export const products: Product[] = [
       "Refroidissement": "Watercooling AIO",
       "Usage": "4K ultra / IA / montage"
     },
-    "short": "Build extrême configuré pour 4K, stream et rendu lourd.",
+    "shortDescription": "Build extrême configuré pour 4K, stream et rendu lourd.",
     "use": "Setup ultra premium",
     "categorySlug": "pc-setup-premium",
     "image": "/products/pc-gaming-rtx-5090-custom-build.svg",
@@ -1105,7 +1105,7 @@ export const products: Product[] = [
       "Installation": "Guidée",
       "Usage": "Streaming"
     },
-    "short": "Pack complet pour lancer un studio de streaming crédible.",
+    "shortDescription": "Pack complet pour lancer un studio de streaming crédible.",
     "use": "Streaming",
     "categorySlug": "pc-setup-premium",
     "image": "/products/setup-streaming-complet.svg",
@@ -1140,7 +1140,7 @@ export const products: Product[] = [
       "Compatibilité": "PC",
       "Style": "Minimal"
     },
-    "short": "Pack périphériques rapide et sobre pour performer en FPS.",
+    "shortDescription": "Pack périphériques rapide et sobre pour performer en FPS.",
     "use": "FPS compétitif",
     "categorySlug": "pc-setup-premium",
     "image": "/products/pack-esport-pro.svg",
@@ -1175,7 +1175,7 @@ export const products: Product[] = [
       "Compatibilité": "Mac / PC",
       "Style": "Studio"
     },
-    "short": "Pack studio élégant pour streamers et créateurs exigeants.",
+    "shortDescription": "Pack studio élégant pour streamers et créateurs exigeants.",
     "use": "Créateur de contenu",
     "categorySlug": "pc-setup-premium",
     "image": "/products/pack-createur-de-contenu.svg",
