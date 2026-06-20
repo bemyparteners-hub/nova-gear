@@ -5,7 +5,7 @@ import { products, formatPrice } from "@/lib/products";
 
 export function CompareGear() {
   const [selected, setSelected] = useState<string[]>(products.slice(0, 3).map((p) => p.id));
-  const items = useMemo(() => selected.map((id) => products.find((product) => product.id === id)).filter(Boolean), [selected]);
+  const items = useMemo(() => selected.map((id) => products.find((product) => product.id === id)).filter((item): item is NonNullable<typeof item> => item !== undefined), [selected]);
   const update = (index: number, id: string) => setSelected((current) => current.map((value, i) => (i === index ? id : value)));
   return (
     <div className="space-y-6">
